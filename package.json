@@ -1,0 +1,8 @@
+{
+  "name": "arjs-test",
+  "version": "0.1.0",
+  "description": "AR.js test repo",
+  "author": "shun.shobon@gmail.com (https://github.com/shun-shobon)",
+  "license": "MIT",
+  "private": true
+}
